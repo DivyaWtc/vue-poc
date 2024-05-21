@@ -19,7 +19,7 @@ export default{
 
 .header h1{
     text-align: center;
-    color:rgb(115, 76, 152)
+    color:rgb(17, 2, 31)
 
 }
 

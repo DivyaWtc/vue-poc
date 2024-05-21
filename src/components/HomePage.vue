@@ -1,7 +1,16 @@
 <template>
 
-    <HomeHeader></HomeHeader>
-    <ToDoItem></ToDoItem>
+    <div>
+        <div>
+            <HomeHeader></HomeHeader>
+        </div>
+        <div>
+            <ToDoItem></ToDoItem>
+        </div>
+        
+    </div>
+   
+    
 
 
 </template>

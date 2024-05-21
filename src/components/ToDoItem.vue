@@ -1,12 +1,15 @@
 <template>
-
-    <div class="container">
-        <div class="sub-container">
-            <h1>hello</h1>
-
+    <div class="parent-container">
+        <div class="container">
+            <div class="sub-container">
+                
+    
+            </div>
+    
         </div>
 
     </div>
+    
 </template>
 
 <script>
@@ -16,9 +19,17 @@ export default{
 
 </script>
 
-<style>
+<style scoped>
+.parent-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
 .container{
-    background-color:red;
+    background-color:rgb(112, 59, 198);
     height: 500px;
     width:500px;
     display: flex;
@@ -28,7 +39,7 @@ export default{
 
 }
 .sub-container{
-    background-color:yellow;
+    background-color:whitesmoke;
     height: 400px;
     width:400px;
     
