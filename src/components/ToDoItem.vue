@@ -1,6 +1,7 @@
 <template>
     <div class="parent-container">
         <div class="container">
+            
             <div class="sub-container">
                 
     
@@ -29,7 +30,7 @@ export default{
    
 }
 .container{
-    background-color:rgb(112, 59, 198);
+    background-color:rgb(166, 132, 220);
     height: 500px;
     width:500px;
     display: flex;
@@ -39,7 +40,7 @@ export default{
 
 }
 .sub-container{
-    background-color:whitesmoke;
+    background-color:lavenderblush;
     height: 400px;
     width:400px;
     

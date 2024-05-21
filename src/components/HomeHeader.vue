@@ -1,7 +1,7 @@
 <template>
 
     <div class="header">
-       <h1>To Do List</h1>
+       <h1>TO DO LIST</h1>
     </div>
 
 </template>
@@ -19,7 +19,7 @@ export default{
 
 .header h1{
     text-align: center;
-    color:rgb(17, 2, 31)
+    color:rgb(3, 3, 61)
 
 }
 
